@@ -11491,6 +11491,11 @@ textarea.input {
   height: 100%;
 }
 
+.h-90perc {
+  height: 90%;
+}
+
+
 .mh-full {
   max-height: 100%;
 }
@@ -12667,3 +12672,4 @@ picture[class^="color-filter-"], picture[class*=" color-filter-"]{
 .absolute {
   position: absolute;
 }
+
