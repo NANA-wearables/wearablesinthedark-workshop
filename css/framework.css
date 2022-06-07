@@ -11967,6 +11967,11 @@ textarea.input {
   line-height: 112px;
 }
 
+.f-150 {
+  font-size: 150px;
+  line-height: 140px;
+}
+
 .lh-12 {
   line-height: 12px;
 }
